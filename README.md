@@ -74,6 +74,7 @@ An improved rewrite of the [Raccoon Clipper](https://github.com/3022-2/raccoon_c
 
 **Planned Features:**  
 - Mostly the same features but improved
+- will scan for seed phrases copied to clipboard too
 
 ---
 
